@@ -16,9 +16,9 @@ This repository documents my hands-on activity from the **Cisco Networking Acade
 
 Natsumi asked for assistance in setting up her new home network using a cable TV provider. The task involved connecting the cable modem, TV, PCs, laptop, and wireless router. It also required configuring DHCP, securing the wireless network, and ensuring that all devices could access the internet.
 
-## 📁 Packet Tracer Activity File
+# 📁 Packet Tracer Activity File
 
-📥 [Download Configure a Wireless Router and Client (.pka)](./Configure%20a%20Wireless%20Router%20and%20Client.pka)
+📥 [Download Packet Tracer Activity (.pka)](https://github.com/CedPad/Netacad-Junior-Cybersecurity-Analyst-Career-Path/raw/refs/heads/main/Configure%20a%20Wireless%20Router%20and%20Client.pka)
 
 ---
 
