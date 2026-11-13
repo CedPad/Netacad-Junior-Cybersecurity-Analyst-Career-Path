@@ -16,7 +16,7 @@ This repository documents my hands-on activity from the **Cisco Networking Acade
 
 Natsumi asked for assistance in setting up her new home network using a cable TV provider. The task involved connecting the cable modem, TV, PCs, laptop, and wireless router. It also required configuring DHCP, securing the wireless network, and ensuring that all devices could access the internet.
 
-## 📁 [Accomplished Activity File (.pka)](./Configure a Wireless Router and Client.pka)
+📥 [Download Home Network Setup (.pka)](./Home-Network-Setup/Home-Network-Setup.pka)
 
 ---
 
